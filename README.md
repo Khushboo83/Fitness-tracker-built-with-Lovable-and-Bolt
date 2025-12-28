@@ -11,7 +11,7 @@ c. Specific post Exercise warm-down/ warm-up regimen recommendations
 
 <img width="1547" height="899" alt="image" src="https://github.com/user-attachments/assets/70016b98-781f-41e6-aff4-37e30bede73d" />
 
-3. Bolt version
+3. Bolt version: https://fitness-tracker-web-wsco.bolt.host
    a. Login screen for authentication and statefulness
    <img width="1614" height="883" alt="image" src="https://github.com/user-attachments/assets/bdafb433-3ace-4575-ae00-090828bb2aa5" />
 
